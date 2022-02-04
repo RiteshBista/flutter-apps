@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/RiteshBista/flutter-apps/blob/main/photosappwithapi/ss%20of%20photoapp.PNG
+
 ![ss of photoapp.PNG](https:/https://github.com/RiteshBista/flutter-apps/blob/main/photosappwithapi/ss%20of%20photoapp.PNG?raw=true)
